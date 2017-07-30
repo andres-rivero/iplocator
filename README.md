@@ -1,4 +1,4 @@
-# ipscrape
+# iplocator
 
 This is a simple script that scrapes the city location from a vector/list of IPs.
 
